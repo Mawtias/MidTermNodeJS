@@ -10,4 +10,5 @@ export const pool = createPool({
   port: 3306,
   //database: "customersdb",
   database: "sql9594540"
+  
 });
